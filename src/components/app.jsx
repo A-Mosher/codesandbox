@@ -12,7 +12,8 @@ class App extends Component {
                 {id: '1', superHeroName: 'Spider-Man', primaryAbility: 'Super strength and agility', secondaryAbility: 'Spider sense'},
                 {id: '2', superHeroName: 'Nightcrawler', primaryAbility: 'Teleportation', secondaryAbility: 'Super agility'},
                 {id: '3', superHeroName: 'Gambit', primaryAbility: 'Kinetic energy manipulation', secondaryAbility: 'Card throwing'},
-                {id: '4', superHeroName: 'Thor', primaryAbility: 'Super Strength', secondaryAbility: 'Flight'}
+                {id: '4', superHeroName: 'Thor', primaryAbility: 'Super Strength', secondaryAbility: 'Flight'},
+                {id: '5', superHeroName: 'Dr.Strange', primaryAbility: 'Master of the Mystic Arts', secondaryAbility: 'Flight w/Cloak of Levitation'}
             ]
         };
 
